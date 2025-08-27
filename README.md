@@ -15,22 +15,22 @@ FlameBot was developed as a final project for my Embedded Systems course with th
 The project demonstrates how embedded systems knowledge, including digital/analog I/O, PWM, and transistor-based power control, can be applied to address real-world safety challenges.
 	
 ## Features
-✧ Flame Detection: Three IR flame sensors (left, center, and right) for directional intensity comparison
-✧ Autonomous Navigation: Four-wheel differential drive with independent motor control via L298N
-✧ Fire Suppression: TIP-122 transistor-driven water pump with servo-controlled spray mechanism
-✧ Auditory Feedback: Speaker alerts signal for both detection and extinguishing events
+✧ Flame Detection: Three IR flame sensors (left, center, and right) for directional intensity comparison<br/>
+✧ Autonomous Navigation: Four-wheel differential drive with independent motor control via L298N<br/>
+✧ Fire Suppression: TIP-122 transistor-driven water pump with servo-controlled spray mechanism<br/>
+✧ Auditory Feedback: Speaker alerts signal for both detection and extinguishing events<br/>
 ✧ Battery Powered: Two 3.7V batteries provide sufficient current for motors and pump
 
 ## Hardware
 
 ### Core Components
-✧ STM32 Nucleo-F401RE microcontroller
-✧ 3 IR flame sensors (analog detection, A0–A2 pins)
-✧ 4 DC gear motors + L298N motor driver
-✧ Water pump with TIP-122 transistor, 1N4007 diode, and smoothing capacitors
-✧ Servo motor for sweeping spray motion
-✧ Piezo speaker for real-time feedback
-✧ 2 3.7V Li-ion batteries
+✧ STM32 Nucleo-F401RE microcontroller<br/>
+✧ 3 IR flame sensors (analog detection, A0–A2 pins)<br/>
+✧ 4 DC gear motors + L298N motor driver<br/>
+✧ Water pump with TIP-122 transistor, 1N4007 diode, and smoothing capacitors<br/>
+✧ Servo motor for sweeping spray motion<br/>
+✧ Piezo speaker for real-time feedback<br/>
+✧ 2 3.7V Li-ion batteries<br/>
 
 ### Block Diagram
 
