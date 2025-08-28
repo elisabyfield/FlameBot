@@ -37,11 +37,11 @@ The project demonstrates how embedded systems knowledge, including digital/analo
 ✧ Mini breadboard + jumper wires<br/>
 
 ### Block Diagram
-<img width="538" height="385" alt="Screenshot 2025-08-27 at 6 07 58 PM" src="https://github.com/user-attachments/assets/009450a0-1954-478a-a684-220a7d312e1c" />
+<img width="538" height="385" alt="Screenshot 2025-08-27 at 6 07 58 PM" src="https://github.com/user-attachments/assets/009450a0-1954-478a-a684-220a7d312e1c" /><br/>
 ### Top Level Flow Chart
-<img width="516" height="663" alt="Screenshot 2025-08-27 at 6 08 28 PM" src="https://github.com/user-attachments/assets/1f70d546-e1c1-4928-9e16-d883f77c32de" />
+<img width="516" height="663" alt="Screenshot 2025-08-27 at 6 08 28 PM" src="https://github.com/user-attachments/assets/1f70d546-e1c1-4928-9e16-d883f77c32de" /><br/>
 ### Circuit Diagram
-<img width="573" height="442" alt="Screenshot 2025-08-27 at 6 08 59 PM" src="https://github.com/user-attachments/assets/b82ee6ad-f9ad-4843-a834-4de89447aca4" />
+<img width="573" height="442" alt="Screenshot 2025-08-27 at 6 08 59 PM" src="https://github.com/user-attachments/assets/b82ee6ad-f9ad-4843-a834-4de89447aca4" /><br/>
 
 ## Proccess
 ### Design & Planning
